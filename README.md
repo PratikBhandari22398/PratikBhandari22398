@@ -4,7 +4,6 @@
 
 ###
 
-<img align="right" height="330" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid&w=740&q=80"  />
 
 ###
 
@@ -78,14 +77,3 @@
 
 ###
 
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PratikBhandari22398/PratikBhandari22398/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PratikBhandari22398/PratikBhandari22398/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PratikBhandari22398/PratikBhandari22398/output/pacman-contribution-graph.svg">
-</picture>
-
-###
